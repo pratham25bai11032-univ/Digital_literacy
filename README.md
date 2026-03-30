@@ -23,6 +23,16 @@ This repository contains my work for **CSE0001 - Digital Literacy**. The project
 
 The repository serves as a structured academic portfolio that brings together artifacts created across the module tasks. It is intended to show practical understanding of digital tools, responsible online behavior, and effective communication in academic and professional contexts.
 
+## Objectives of the Project
+
+The main objectives of this Project are:
+
+- To understand the meaning and importance of digital literacy in academic and professional life.
+- To develop awareness of safe and responsible online behaviour.
+- To build a basic professional digital presence using relevant online platforms.
+- To practice formal and respectful communication in digital environments.
+- To improve awareness of cybercrime risks and methods of prevention.
+
 ## Module Summaries
 
 ### Module 1: Digital Literacy Awareness
@@ -73,16 +83,6 @@ The repository serves as a structured academic portfolio that brings together ar
 - Stack Overflow
 - Google Forms
 - PDF and image documentation tools
-
-## Academic Use Note
-
-This repository has been prepared as part of the **CSE0001 Digital Literacy** coursework submission. All included files are organized to demonstrate completion of the required project tasks and supporting evidence.
-
-## Future Improvements
-
-- Add direct public links to all profiles and forms.
-- Include a final report PDF in the repository.
-- Expand reflections for each module in a separate report document.
 
 ## Author
 
