@@ -65,8 +65,8 @@ The main objectives of this Project are:
 - GitHub Profile: `https://github.com/pratham25bai11032-univ`
 - Kaggle Profile: `https://www.kaggle.com/zevmisc`
 - Stack Overflow Profile: `https://stackoverflow.com/users/32547705/zev-misc`
-- Google Form / Quiz Link: `Add your Google Form link here`
-- Repository Link: `Add your GitHub repository link here`
+- Google Form / Quiz Link: `https://docs.google.com/forms/d/e/1FAIpQLSc7Sn-gh1Vok-LuSaEOcH8GeJH5zvDUpNi2VwzR6tEPAhFfaQ/viewform?usp=publish-editor`
+- Repository Link: `https://github.com/pratham25bai11032-univ/Pratham-Yadav/tree/main`
 
 ## Key Learning Outcomes
 
